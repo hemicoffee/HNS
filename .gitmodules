@@ -1,0 +1,4 @@
+[submodule "hemicoffee/HNS"]
+	path = hemicoffee/HNS
+	url = git@github.com:hemicoffee/HNS.git
+	branch = main
